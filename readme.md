@@ -11,6 +11,7 @@ Setup Instructions:
 
 
 ####################################################
+
 For dataset creation
 1. open face_datasets.py file
 2. put face_id = number of users count like face_id = 1 for 1st user face_id = 2 for 2nd user.
@@ -18,6 +19,7 @@ For dataset creation
 4. photos are stored in the dataset folder.
 
 ###############################################
+
 After dataset creation for taining the dataset
 
 4. Run the training.py
